@@ -1,5 +1,27 @@
 # ${\color{white}Time\ Series\ Analysis\ Regression}$
 
+## Software And Tools Requirements
+
+1. [GithubAccount](https://github.com)
+2. [HerokuAccount](https://heroku.com)
+3. [VSCodeIDE](https://code.visualstudio.com/)
+4. [GitCLI](https://git-scm.com/downloads)
+5. [AnacondaPackage/JupyterNoteBook](https://www.anaconda.com/products/distribution)
+
+## Creata a New Environment and Activate!!
+
+```
+conda create -p venv python==3.9 -y
+conda activate venv/
+```
+
+## Install all the Required Libraries!!
+
+```
+pip install -r requirements.txt
+```
+# Getting started with the Project!!
+
 ## ${\color{cyan}1.\ Problem \ Statement:}$
 ### ${\color{darkgray}Predict \ the \ sales \ price \ of \ Bulldozers, \ given \ a \ Time-Series \ Dataset}$
 &nbsp;
@@ -28,7 +50,7 @@
 <img src="./images/sklearn-workflow-title.png" width=800/>
 &nbsp;
 
-* ### ${\color{darkgray}Mentioned \ below \ is \ the \ Sci-Kit \ Learn's \ ML \ Mapping \ .PNG \ file; \ which \ we \ will \ be \ referring \ to \ in \ order \ to \ select \ a \ Model}$
+* ### ${\color{darkgray}Attached \ below \ is \ the \ Sci-Kit \ Learn's \ ML \ Mapping \ .PNG \ file; \ which \ we \ will \ be \ referring \ to \ in \ order \ to \ select \ a \ Model}$
 &nbsp;
 <img src="./images/sklearn-ml-map.png" width=800/>
 &nbsp;
