@@ -50,7 +50,7 @@ pip install -r requirements.txt
 <img src="./images/sklearn-workflow-title.png" width=800/>
 &nbsp;
 
-* ### ${\color{darkgray}Attached\ below\ is\ the\ SKLearn's\ ML\ Mapping\ PNG\ file;\ which\ we\ will\ be\ referring\ to\ in\ order\ to\ select\ a\ Model.}$
+* ### ${\color{darkgray}SKLearn's\ ML\ map\ to\ select\ a\ Model.}$
 &nbsp;
 <img src="./images/sklearn-ml-map.png" width=800/>
 &nbsp;
